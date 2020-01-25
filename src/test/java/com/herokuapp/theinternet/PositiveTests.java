@@ -11,7 +11,7 @@ public class PositiveTests {
 
 	@Test
 	public void loginTest() {
-		System.out.println("Starting loginTest");
+		System.out.println("Starting loginTest first time.");
 
 //		Create driver
 		System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
